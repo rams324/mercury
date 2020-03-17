@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-expressions-8.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-java-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-junit-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-api-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-api-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-chrome-driver-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-htmlunit-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-remote-driver-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-remote-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/selenium-support-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber new jars/ram/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
